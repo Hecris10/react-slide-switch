@@ -1,4 +1,4 @@
-# React Component Slider
+# React Slide Switch
 
 A React component for creating smooth sliding transitions between components. Perfect for tabs, carousels, and any UI that requires horizontal sliding animations.
 
